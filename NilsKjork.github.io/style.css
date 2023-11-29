@@ -1,0 +1,42 @@
+h5 {
+    background-color: white;
+    height: 20px;
+    width: 700px;
+}
+
+nav {
+    background-color: white;
+    height: 0;
+    width: 0;
+}
+
+#container {
+    background-color: white;
+    display: flex;
+}
+
+div {
+    position: absolute;
+    right: -20px;
+    width: 10px;
+    height: 12px;
+}
+
+aside {
+    background-color: white;
+    width: 1002px;
+    height: 20px;
+}
+
+main {
+    height: 150%;
+    width: 1200px;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
