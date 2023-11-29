@@ -3,6 +3,7 @@ h5 {
     height: 50px;
     width: 700px;
 }
+
 button {
     font: bold 11px Arial;
     text-decoration: none;
@@ -13,7 +14,7 @@ button {
     border-right: 1px solid #333333;
     border-bottom: 1px solid #333333;
     border-left: 1px solid #CCCCCC;
-    }
+}
 
 nav {
     background-color: white;
